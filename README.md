@@ -49,19 +49,6 @@ Run:
 ```
 python sensitive_data_scanner.py
 ```
-## 
-Test Files
-Included in test_files/:
-
-test.txt: "My number is +919876543210 and email is abc@example.com"
-sample.pdf: PDF with "Contact: 123-456-7890"
-data.csv: CSV with "name,phone,email" and "Ram,+911234567890,ram@example.com"
-info.json: JSON with {"name": "Shyam", "email": "shyam@example.com"}
-
-Output
-Sensitive Data Found: Sensitive data detected in the file.
-No Sensitive Data: No sensitive data found in the file.
-Errors: e.g., Error: File not found at test_files/test.txt
 🔥 Key Highlights
 
 🔥 Key Highlights
